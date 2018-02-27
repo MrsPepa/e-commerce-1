@@ -4,7 +4,7 @@
 - **PROYECTO EN FIREBASE** - (https://reactapp-visidevi.firebaseapp.com)
 
 ##  **OBJETIVO**
-TRANOCHAR LO NECESARIO PARA ENTREGAR UN PRODUCTO FUNCIONAL DE CALIDAD
+Crear tu propio SPA de manera guiada y poniendo en práctica los conceptos vistos en la lectura anterior.
 
 ##  **DESARROLLO**
 
@@ -12,7 +12,7 @@ TRANOCHAR LO NECESARIO PARA ENTREGAR UN PRODUCTO FUNCIONAL DE CALIDAD
 
 ##Nuestra app se visualiza asi:
 
-![Alt text](assets/img/.jpeg),
+<!-- ![Alt text](assets/img/.jpeg), -->
 
 ##  Lenguaje 
 - javascript
@@ -31,4 +31,4 @@ TRANOCHAR LO NECESARIO PARA ENTREGAR UN PRODUCTO FUNCIONAL DE CALIDAD
 
 
 
-si va a tomar este trabajo de referencia tenga en cuenta que llevamos muchos dias sin DOrmir 2018
+2018
