@@ -189,11 +189,11 @@
     $('.producto').click(function (e) {
       e.stopPropagation();
       paypal.minicart.cart.add({
-        business: 'visidevi-facilitator@gmail.com ', // Cuenta paypal para recibir el dinero
-        item_name: $(this).attr("titulo"),
-        amount: $(this).attr("precio"),
-        currency_code: 'CLP',
-        // "business": "visidevi@gmail.com", "item_name": $(this).attr("titulo"), "amount": $(this).attr("precio"), "currency_code": "USD"
+        // business: 'visidevi@gmail.com ', // Cuenta paypal para recibir el dinero
+        // item_name: $(this).attr("titulo"),
+        // amount: $(this).attr("precio"),
+        // currency_code: 'CLP',
+      "business": "visidevi@gmail.com", "item_name": $(this).attr("titulo"), "amount": $(this).attr("precio"), "currency_code": "CLP"
       });
     });
 

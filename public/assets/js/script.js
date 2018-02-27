@@ -92,6 +92,7 @@ newProduct('MLC1248');
 
   $('body').on('click', '#MLC1260', function(){
     newProduct($(this).attr('id'))
+    createQueryHash(Cabello)
   })
     $('body').on('click', '#MLC1248', function(){
     newProduct($(this).attr('id'))
