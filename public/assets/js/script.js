@@ -78,7 +78,7 @@ filters = {
   // https://api.mercadolibre.com/categories/MLC1246
 
 
-newProduct('MLC1248');
+newProduct('MLC1260');
  
   $('body').on('click', '#MLC1253', function(){
     // alert($(this).attr('id'))
@@ -94,7 +94,7 @@ newProduct('MLC1248');
     newProduct($(this).attr('id'))
     createQueryHash(Cabello)
   })
-    $('body').on('click', '#MLC1248', function(){
+    $('body').on('click', '#MLC1260', function(){
     newProduct($(this).attr('id'))
   })
 
